@@ -4,7 +4,9 @@
 
 
 1.clean compile package -Dmaven.test.skip=true -Ptest
+
 2.clean compile package -Dmaven.test.skip=true -Pdev
+
 3.clean compile package -Dmaven.test.skip=true -Pprd
 
 
